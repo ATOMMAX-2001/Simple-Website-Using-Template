@@ -51,7 +51,7 @@
         <!-- <a class="navbar-brand logo-text page-scroll" href="index.html">Leno</a> -->
 
         <!-- Image Logo -->
-        <a class="navbar-brand logo-image" style="text-decoration:none;font-size:30px;" href="index.html">MagicJack</a>
+        <a class="navbar-brand logo-image" style="text-decoration:none;font-size:30px;" href="index.md">MagicJack</a>
 <img src="" alt="">
         <!-- Mobile Menu Toggle Button -->
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
@@ -113,7 +113,7 @@
                 <div class="row">
                     <div class="col-lg-6">
                         <div class="text-container">
-                            <h1>MAGICJACK HOME<br>FOR <span id="js-rotating">BUSSINESS, MARKETERS,STUDENT</span></h1>
+                            <h1>MAGICJACK HOME<br>FOR <span id="js-rotating">BUSINESS, MARKETERS,STUDENT</span></h1>
                             <p class="p-large">STAY CONNECTED WITH FRIENDS & FAMILY. Download it today!</p>
                             <a class="btn-solid-lg page-scroll" href="https://itunes.apple.com/us/app/free-calls-with-magicjack/id463926997?mt=8"><i class="fab fa-apple"></i>APP STORE</a>
                             <a class="btn-solid-lg page-scroll" href="https://play.google.com/store/apps/details?id=com.magicjack&hl=en"><i class="fab fa-google-play"></i>PLAY STORE</a>
